@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Grundholcas",
+    "location" : true
+  },
+  {
+    "name" : "Štaubaumas",
+    "location" : false
+  },
+  {
+    "name" : "Mankrankas",
+    "location" : true
+  },
+  {
+    "name" : "Greimladė",
+    "location" : true
+  },
+  {
+    "name" : "Kochmesina",
+    "location" : false
+  }
+]

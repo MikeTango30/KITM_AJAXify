@@ -1,0 +1,32 @@
+.container-fluid {
+    background-color: #eee;
+}
+
+.container {
+    max-width: 80%;
+    height: 800px;
+}
+
+.proverb {
+    font-size: 3rem;
+    color: #000;
+}
+
+.trust {
+    flex-direction: column;
+}
+
+h5 {
+    display: inline-block;
+    margin-left: 2rem;
+}
+
+button {
+    background-color: blue;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.badge {
+    width: 42px;
+}
